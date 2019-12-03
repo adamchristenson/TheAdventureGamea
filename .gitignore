@@ -1,1 +1,6 @@
 /TheAdventureGame.iml
+/src/com/company/Main.java
+/.idea/.gitignore
+out/ 
+.idea/workspace.xml 
+.idea/vcs.xml
